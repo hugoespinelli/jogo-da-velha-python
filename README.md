@@ -13,6 +13,6 @@ Para utilizar o jogo, voce deve possui a versão 3.5 do python atualizada em seu
 ## Execucao
 
 
-Entre na pasta onde você baixou o jogo do python, tenha certeza que o python está sendo na variavel de ambiente e rode o seguinte código
+Entre na pasta onde você baixou o jogo do python, tenha certeza que o python está na variavel de ambiente e rode o seguinte código no seu promp de comando:
 
 `python jogo_da_velha._com_gui.py`
