@@ -1,8 +1,8 @@
 # jogo-da-velha-python
 
-Jogo da velha feito em python com gui. Foi utizado o python na versao 3.5 com o modulo visual Tkinter.
+Jogo da velha feito em python com gui. Foi utizado o python na versao 3.5 com o módulo visual Tkinter.
 
-Objetivo deste trabalho foi aplicar os conhecimentos praticos de orientacao a objetos em conjunto com o modulo Tkinter.
+Objetivo deste trabalho foi aplicar os conhecimentos praticos de orientação a objetos em conjunto com o módulo Tkinter.
 
 ## Como usar
 
